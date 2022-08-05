@@ -30,7 +30,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -125,3 +126,4 @@ $RECYCLE.BIN/
 #
 onamae-go
 .envrc
+.env
